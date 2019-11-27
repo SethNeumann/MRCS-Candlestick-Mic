@@ -1,6 +1,6 @@
 # MRCS-Candlestick-Mic
-## License: CERN Open Hardware Licence v1.2
+## License: Commerical Commons attribution-noncommerical-sharealike
 
-An electret replacement for a telephone headset carbon mic
+An electret replacement for a telephone headset carbon mic for use with the MRCS ATSN
 
 Part of the MRCS telephony line
